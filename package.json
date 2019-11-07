@@ -1,0 +1,31 @@
+{
+  "name": "peters-work",
+  "version": "1.0.0",
+  "description": "Description of NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petstefan/es6-review.git"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node"
+  ],
+  "author": "peter owoede",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petstefan/es6-review/issues"
+  },
+  "homepage": "https://github.com/petstefan/es6-review#readme",
+  "dependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/register": "^7.7.0"
+  }
+}
+
